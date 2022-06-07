@@ -1,6 +1,10 @@
-# PdfCreatorFromHtml
+   # صناعه ملف بي دي اف من ملف  html 
 
-This library is a wrapper for DinkToPdf with easy configuration
+ لقد تم صناعه رابر لمكتبه [DinkToPdf](https://github.com/rdvojmoc/DinkToPdf)  من اجل تسهيل عمليه صناعه ملفات البي دي اف 
+## كيفيه الاستعمال
+
+
+المكتبه لطيفه خفيفه مجرد تصنع اعداداتك وتشمرهم هيه تحير بالعمليه المتبقيه
 
 ``` 
        var globalSettings = new PdfGlobalSettings()
